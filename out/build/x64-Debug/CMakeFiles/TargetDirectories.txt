@@ -1,0 +1,4 @@
+D:/test_c_plus/out/build/x64-Debug/CMakeFiles/calculator.dir
+D:/test_c_plus/out/build/x64-Debug/CMakeFiles/calculator_exec.dir
+D:/test_c_plus/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/test_c_plus/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

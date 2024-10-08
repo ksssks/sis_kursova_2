@@ -1,0 +1,4 @@
+D:/test_c_plus/build/CMakeFiles/calculator.dir
+D:/test_c_plus/build/CMakeFiles/calculator_exec.dir
+D:/test_c_plus/build/CMakeFiles/edit_cache.dir
+D:/test_c_plus/build/CMakeFiles/rebuild_cache.dir
